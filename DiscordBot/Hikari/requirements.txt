@@ -1,0 +1,6 @@
+python-decouple
+hikari
+hikari-lightbulb
+sentry-sdk
+deepl
+git+https://github.com/tandemdude/lightbulb-ext-filament.git

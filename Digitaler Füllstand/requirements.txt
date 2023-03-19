@@ -1,0 +1,3 @@
+adafruit-circuitpython-bmp280 
+python3-smbus 
+i2c-tools
